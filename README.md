@@ -35,7 +35,7 @@ A simple web-based dashboard using Dash, where users can dynamically select and 
 
 ## Getting Started:
 * Clone this repository:
-git clone https://github.com/PreciousEbu/rfm-analysis.git
+[git clone https://github.com/PreciousEbu/rfm-analysis.git](https://github.com/PreciousEbu/RFM-Analysis.git)
 cd rfm-analysis
 
 * Install dependencies:
