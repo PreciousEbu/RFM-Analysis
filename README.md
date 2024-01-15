@@ -54,3 +54,9 @@ Contributions are welcome! If you find a bug or have suggestions for improvement
 ## License:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## Acknowledgement
+https://thecleverprogrammer.com/2023/06/12/rfm-analysis-using-python/
+
+
+
+
